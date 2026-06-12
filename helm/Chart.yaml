@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-mudarabah-venture-financing
+description: "BIAN Service Domain: Mudarabah Venture Financing (Fulfill pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Lease And Partnership Financing"
+  isb/asset-type: "Mudarabah Facility"
+  isb/control-record: "Mudarabah Facility Fulfillment Arrangement"
